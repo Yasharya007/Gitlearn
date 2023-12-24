@@ -1,3 +1,2 @@
 LEET - 6
-gfg - |
-learn some git
+gfg - 1
